@@ -8,8 +8,15 @@ Roughly 700 years old
 
 1) Ragnar - Some criminal boss - Been in Crag Lake for about 5 years
     * Was initially doing good work
+    * Only Aklil Knows the following
+      * Has an "Army" of about 100. On patrols or missions mostly.
+      * 12ish in the wear house.
+      * A few half-orcs have worked with him
+        * ONE HAD A SPIDER TATTOO
+
 
 2) Lofi - Henchman for Ragnar
+   * Beaten nearly to death and tortured by Aklil
 
 3) Olrick - Old guy at the HitWT
    * Offers work for a group (See quests)
@@ -33,6 +40,8 @@ Roughly 700 years old
 
 * The Hole in the Wall Tavern (Rorick):
   * Forced to pay 50 gold per month for Ragnar's "protection"
+  * Buildings outside of the tavern recently set ablaze.
+  * 
 
 * Ragnar's Hideout - Location Unknown
 
@@ -44,6 +53,7 @@ Roughly 700 years old
 
 * Rams Head Warehouse - Industrial District
   * Sold wood to HitWT
+  * Ragnar's main base of operation
 
 ### Information
 
@@ -59,3 +69,4 @@ Roughly 700 years old
 
 1) Praedyth has a ring that had a severed finger attached.
     * Logo matches the Rams Head Warehouse
+    * Lofi had a ring that matched this design (Sepharoth in possession of it)
