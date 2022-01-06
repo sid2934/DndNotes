@@ -6,32 +6,36 @@ Roughly 700 years old
 
 ### People
 
-1) Ragnar - Some criminal boss - Been in Crag Lake for about 5 years
+1) Rorick
+   * Owner of the HitW Tavern
+   * Currently out 50
+
+2) Ragnar Gudmand (Vog's Uncle) (Bad One #1) - Some criminal boss - Been in Crag Lake for about 5 years
     * Was initially doing good work
     * Only Aklil Knows the following
       * Has an "Army" of about 100. On patrols or missions mostly.
       * 12ish in the wear house.
       * A few half-orcs have worked with him
         * ONE HAD A SPIDER TATTOO
+    * Leg's were removed
 
-
-2) Lofi - Henchman for Ragnar
+3) Lofi - Henchman for Ragnar
    * Beaten nearly to death and tortured by Aklil
 
-3) Olrick - Old guy at the HitWT
+4) Olrick - Old guy at the HitWT
    * Offers work for a group (See quests)
    * HitWT regular
    * Secretive business
    * Is he bad?
 
-4) Rema - Old owner of the Apothecary
+5) Rema - Old owner of the Apothecary
 
-5) Freida - Half-Orc
+6) Freida - Half-Orc
    * Claims Best meat pies
    * About 25 moved to Crag Lake as a kid
    * Potential Lead!
   
-6) Olga - Dwarf - Chicken Stall
+7) Olga - Dwarf - Chicken Stall
    * In a casual relationship with Olrick
    * Does not like Ragnar
    * a
@@ -41,9 +45,6 @@ Roughly 700 years old
 * The Hole in the Wall Tavern (Rorick):
   * Forced to pay 50 gold per month for Ragnar's "protection"
   * Buildings outside of the tavern recently set ablaze.
-  * 
-
-* Ragnar's Hideout - Location Unknown
 
 * Mercenary Guild near Crag Lake
 
@@ -51,7 +52,7 @@ Roughly 700 years old
   * Freida's Pastern Stall
   * Olga's Chicken Stall
 
-* Rams Head Warehouse - Industrial District
+* Ragnar's Hideout - Rams Head Warehouse - Industrial District
   * Sold wood to HitWT
   * Ragnar's main base of operation
 
@@ -69,4 +70,4 @@ Roughly 700 years old
 
 1) Praedyth has a ring that had a severed finger attached.
     * Logo matches the Rams Head Warehouse
-    * Lofi had a ring that matched this design (Sepharoth in possession of it)
+    * Lofi had a ring that matched this design (Praedyth in possession of it)
