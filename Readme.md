@@ -40,6 +40,16 @@ Roughly 700 years old
    * Does not like Ragnar
    * a
 
+8) Orlgan* - Half-Orc
+   * Killed Aklil's family
+   * Port of Crease
+   * 3 years ago in Crag
+   * Chattel - Slaves
+
+9) Barrel Guy 
+   * Henchman of Ragnar's
+   * Stuffed into a barrel (head down) at the Ram's Head Warehouse
+
 ### Places
 
 * The Hole in the Wall Tavern (Rorick):
@@ -60,11 +70,14 @@ Roughly 700 years old
 
 ### Quests
 
-1) Kill Ragnar - return with head
+1) Kill Ragnar - return with head [COMPLETED]
    * Return to Olrick
     1) Investigate Olrick for clues if he is a good person.
        * Frequents the market a few blocks away from the HitWT... Chicken Stall @ wet market
        * Did not go to the meat pie stall January 18th
+
+1) Follow Olrick
+   * Olrick took Ragnar and is likely heading back to his "clients"
 
 ### Items
 
