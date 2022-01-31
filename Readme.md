@@ -46,9 +46,13 @@ Roughly 700 years old
    * 3 years ago in Crag
    * Chattel - Slaves
 
-9) Barrel Guy 
+9) Barrel Guy
    * Henchman of Ragnar's
    * Stuffed into a barrel (head down) at the Ram's Head Warehouse
+  
+10) Igor
+    * North Gate guard of Crag
+    * Nut taps the guard on the south side at dinner
 
 ### Places
 
