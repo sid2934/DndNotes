@@ -82,6 +82,9 @@ Roughly 700 years old
 
 1) Follow Olrick
    * Olrick took Ragnar and is likely heading back to his "clients"
+   * Took Ragnar on cart and left Krag lake heading south
+   * We caught up to Olrick/Ragnar
+   * We will escort them to the contract collection
 
 ### Items
 
