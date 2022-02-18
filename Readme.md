@@ -21,6 +21,7 @@ Roughly 700 years old
 
 3) Lofi - Henchman for Ragnar
    * Beaten nearly to death and tortured by Aklil
+   * Currently waiting at the HitWT
 
 4) Olrick - Old guy at the HitWT
    * Offers work for a group (See quests)
@@ -38,9 +39,8 @@ Roughly 700 years old
 7) Olga - Dwarf - Chicken Stall
    * In a casual relationship with Olrick
    * Does not like Ragnar
-   * a
 
-8) Orlgan* - Half-Orc
+8) Orlgan - Half-Orc
    * Killed Aklil's family
    * Port of Crease
    * 3 years ago in Crag
@@ -54,13 +54,15 @@ Roughly 700 years old
     * North Gate guard of Crag
     * Nut taps the guard on the south side at dinner
 
+11) Eric the Black
+    * Head of Olrick's "Mercenary Guild"
+    * Guild Master controls BINGO book
+
 ### Places
 
 * The Hole in the Wall Tavern (Rorick):
   * Forced to pay 50 gold per month for Ragnar's "protection"
   * Buildings outside of the tavern recently set ablaze.
-
-* Mercenary Guild near Crag Lake
 
 * Crag Market
   * Freida's Pastern Stall
@@ -69,6 +71,10 @@ Roughly 700 years old
 * Ragnar's Hideout - Rams Head Warehouse - Industrial District
   * Sold wood to HitWT
   * Ragnar's main base of operation
+
+* Eric the Black's "Mercenary Guild"
+  * South of Crag Lake
+  * A nights travel from Crag south gate
 
 ### Information
 
@@ -80,14 +86,35 @@ Roughly 700 years old
        * Frequents the market a few blocks away from the HitWT... Chicken Stall @ wet market
        * Did not go to the meat pie stall January 18th
 
-1) Follow Olrick
+2) Follow Olrick [COMPLETED]
    * Olrick took Ragnar and is likely heading back to his "clients"
-   * Took Ragnar on cart and left Krag lake heading south
+   * Took Ragnar on cart and left Crag lake heading south
    * We caught up to Olrick/Ragnar
    * We will escort them to the contract collection
+   * Outcome: Eric the Black's "Mercenary Guild"
+
+3) Find and bring Tobias Haarstad ALIVE
+   * Return target to Eric the Black to exchange for Ragnar
+   * More details after acceptance
+   * Meet in the Hogs Blood Tavern in Fyr
+     * Second floor - private room
+     * Password is "blood-in-snow"
 
 ### Items
 
 1) Praedyth has a ring that had a severed finger attached.
     * Logo matches the Rams Head Warehouse
     * Lofi had a ring that matched this design (Praedyth in possession of it)
+
+## Fyr
+
+### Places (Fyr)
+
+1) Hogs Blood Tavern
+
+### People (Fyr)
+
+1) Tobias Haarstad
+   * Prominent city council member
+   * Sizable Bounty on him
+   * Bounty placed about a year ago
