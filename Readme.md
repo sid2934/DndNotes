@@ -18,7 +18,7 @@ Roughly 700 years old
         * ONE HAD A SPIDER TATTOO
     * Leg's were removed
 
-3) Lofi - Henchman for Ragnar
+3) ~~Lofi - Henchman for Ragnar~~ [DECEASED]
    * Beaten nearly to death and tortured by Aklil
    * Currently waiting at the HitWT
 
@@ -53,8 +53,14 @@ Roughly 700 years old
 10) Igor
     * North Gate guard of Crag
     * Nut taps the guard on the south side at dinner
+    * Frequents the Golden Goose
 
-11) Eric the Black
+11) Kyle
+    * South Gate guard of Crag
+    * Nut taps the guard on the north side at dinner
+    * Frequents the Golden Goose
+
+12) Eric the Black
     * Head of Olrick's "Mercenary Guild"
     * Guild Master controls BINGO book
 
@@ -75,6 +81,10 @@ Roughly 700 years old
 * Eric the Black's "Mercenary Guild"
   * South of Crag Lake
   * A nights travel from Crag south gate
+
+* Golden Goose Tavern
+  * Like a Frat bar
+  * Guards go there
 
 ### Information
 
@@ -112,17 +122,17 @@ Roughly 700 years old
 
 1) Hogs Blood Tavern
 
+2) Court House/Town Hall
+   * Daily meeting at noon
+
 ### People (Fyr)
 
 1) Tobias Haarstad
    * Prominent city council member
    * Sizable Bounty on him
    * Bounty placed about a year ago
+   * Represents the Merchants Guild
+   * Smarmy Personality
 
-## Gehlt
-
-### Places (Gehlt)
-
-1) Additional Mercenary Guild
-
-2) a
+2) Neemak Colehand
+   * Made a blood oath to capture Tobias Haarstad
