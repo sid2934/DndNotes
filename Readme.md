@@ -8,7 +8,6 @@ Roughly 700 years old
 
 1) Rorick
    * Owner of the HitW Tavern
-   * Currently out 50
 
 2) Ragnar Gudmand (Vog's Uncle) (Bad One #1) - Some criminal boss - Been in Crag Lake for about 5 years
     * Was initially doing good work
@@ -45,6 +44,7 @@ Roughly 700 years old
    * Port of Crease
    * 3 years ago in Crag
    * Chattel - Slaves
+   * Bingo book entry that Eric the Black has
 
 9) Barrel Guy
    * Henchman of Ragnar's
@@ -118,3 +118,11 @@ Roughly 700 years old
    * Prominent city council member
    * Sizable Bounty on him
    * Bounty placed about a year ago
+
+## Gehlt
+
+### Places (Gehlt)
+
+1) Additional Mercenary Guild
+
+2) a
