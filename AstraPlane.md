@@ -33,6 +33,13 @@ We awake and find ourselves in a world with purple hue and on a black sand beach
   * Field Journals
   * Book case (shattered)
   * Tunnel under trap door
+    * Room at end of tunnel.
+      * 2 Adventures (probably the journal writers)
+      * Barrels
+      * Literal pile of shit
+      * *UV HIDDEN* "NO HOPE" written on back wall
+
+
 
 * Great Modron Cathedral
   * "Boss Baby" style factory
@@ -42,6 +49,12 @@ We awake and find ourselves in a world with purple hue and on a black sand beach
 * Book From Mystery Shack
   * Map of the Plinkus (Glinkus) Island we are on and surrounding area
   * Alexi's Guide to the Prime Materia Volumes 1, 2, and 3
+  * Journals
+    * Dates written about possible Slaad encounters
+      * First date - "We are Safe"
+      * Second date (a week later) - Was not completed
+      * No entries after this entry
+    * Picture of the Slaad boat or similar boat
 
 ## Faction
 
@@ -65,9 +78,22 @@ We awake and find ourselves in a world with purple hue and on a black sand beach
     * Not modrons
     * Some fleshy some not
 
-* Lizard Things
+* Lizard/Frog Things (Slaad)
+  * Some information in the Field Journal
+  * Massive Teeth
+  * Stay outside of their reach (claws are deadly)
   * Regenerate HP
   * Avoid?
+  * Strong as fucks
+  * Autopsy
+    * Very alien looking organs
+    * One organ is still pumping a sweet smelling liquid (after death)
+      * The liquid heals
+  * Claws have hollow tubes on them
+
+* Froghemoth
+  * It has tentacles
+  * Fucked Slaads up
 
 ## Measurements
 
@@ -75,7 +101,7 @@ We awake and find ourselves in a world with purple hue and on a black sand beach
   * 1 Klink = 412.5 feet
 
 * Time
-  * 10 Seconds = .01 Flubons = 6 micro Quagon = 10 milliquibalons = 100 Flargels = 
+  * 10 Seconds = .01 Flubons = 6 micro Quagon = 10 milliquibalons = 100 Flargels
   * 1 second = 10 flargels
   * 1 Second = .001 Flubons <=> 1 flubon = 100 seconds
   * 1 millisecond = .000001 Flubons <=> 1 flubon = 100000 milliseconds
@@ -85,4 +111,5 @@ We awake and find ourselves in a world with purple hue and on a black sand beach
   * 17 Cycle = 289 years
 
 * Directions
-  * 4D compass inside Robo
+  * Florbal - North
+  * Flogal - South

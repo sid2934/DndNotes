@@ -133,6 +133,19 @@ Roughly 700 years old
    * Bounty placed about a year ago
    * Represents the Merchants Guild
    * Smarmy Personality
+   * Desk Notes [ONLY Maxwell knows this]
+     * ACQUISITION OF COLEHAND LANDS FOR FOREST PRESERVATION
+       * The city is going to acquire 25 acres of Colehand mining land for forest preservation.
+       * City would buy the land at market value
+       * Colehand will lose a shit load of money
+
+   * Garuds?
+     * Sif - Warrior
+     * Maunn - Archer
+     * Grauk - Sorcerer
 
 2) Neemak Colehand
    * Made a blood oath to capture Tobias Haarstad
+   * 72 hours to finish the Tobias mission
+
+3) ask
