@@ -139,9 +139,9 @@ Roughly 700 years old
        * City would buy the land at market value
        * Colehand will lose a shit load of money
 
-   * Garuds?
+   * Guards?
      * Sif - Warrior
-     * Maunn - Archer
+     * Maunn - Arc her
      * Grauk - Sorcerer
 
 2) Neemak Colehand
