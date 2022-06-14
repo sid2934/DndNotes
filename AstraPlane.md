@@ -2,8 +2,6 @@
 
 We awake and find ourselves in a world with purple hue and on a black sand beach covered in the remains of some poor creature.
 
-
-
 ## People
 
 * Aklil Zinlor
@@ -39,10 +37,21 @@ We awake and find ourselves in a world with purple hue and on a black sand beach
       * Literal pile of shit
       * *UV HIDDEN* "NO HOPE" written on back wall
 
-
-
 * Great Modron Cathedral
   * "Boss Baby" style factory
+
+* Grung Island
+  * Great Grung (Leader)
+    * Larger then other grung
+    * Golden Colorededi
+  * Populated with grung
+  * Has Beasts
+    * Live in the woods
+    * Long
+    * 6 legs
+    * Long tails
+    * Claws and fangs
+    * Can eat a grung hole
 
 ## Items
 
@@ -65,7 +74,6 @@ We awake and find ourselves in a world with purple hue and on a black sand beach
     * Be what you are - don't be anything else
     * Listen to duo drones
     * Don't break the speed of light
-    * 
   * Modron
     * Drones
       * Mono
@@ -77,6 +85,8 @@ We awake and find ourselves in a world with purple hue and on a black sand beach
   * Notdrons
     * Not modrons
     * Some fleshy some not
+
+### Monsters
 
 * Lizard/Frog Things (Slaad)
   * Some information in the Field Journal
@@ -94,6 +104,12 @@ We awake and find ourselves in a world with purple hue and on a black sand beach
 * Froghemoth
   * It has tentacles
   * Fucked Slaads up
+
+* Grung?
+  * 3 toed frog creatures
+  * spear wielding
+  * small
+  * Lawful Evil
 
 ## Measurements
 
