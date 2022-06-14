@@ -43,7 +43,7 @@ We awake and find ourselves in a world with purple hue and on a black sand beach
 * Grung Island
   * Great Grung (Leader)
     * Larger then other grung
-    * Golden Colorededi
+    * Golden Color
   * Populated with grung
   * Has Beasts
     * Live in the woods
@@ -52,6 +52,8 @@ We awake and find ourselves in a world with purple hue and on a black sand beach
     * Long tails
     * Claws and fangs
     * Can eat a grung hole
+  * Grog
+    * Nephew of Great Grung
 
 ## Items
 
