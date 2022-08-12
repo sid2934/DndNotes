@@ -5,10 +5,17 @@ We awake and find ourselves in a world with purple hue and on a black sand beach
 ## People
 
 * Aklil Zinlor
+  * Sprite Familiar
+    * Name: Tony
 
 * Bernard St. Flair
   * Worships Ileana
   * Astropial Plane
+
+* Tony
+  * Sprite
+  * Aklil's familiar
+  * From Queens (A fey wilderness)
 
 * Robo
   * Modron - Mono
@@ -20,10 +27,23 @@ We awake and find ourselves in a world with purple hue and on a black sand beach
   * Can Fly
   * Flew 200 Klicks flarb to get here
 
+* Great Grung (Leader)
+  * Larger then other grung
+  * Golden Color
+
+* Grog
+  * Nephew of Great Grung
+
 * Mysterious Ship
   * Not Human
   * Multiple People
   * Book case shattered
+
+* X-R the eccentric
+  * From Drasil north of the Eyeling Strait
+    * Can create portals to travel through planes
+      * Needed a Blue Dragon horn to open to port
+      * Dragons Peak via in the Valley of Bone
   
 ## Location
 
@@ -41,19 +61,13 @@ We awake and find ourselves in a world with purple hue and on a black sand beach
   * "Boss Baby" style factory
 
 * Grung Island
-  * Great Grung (Leader)
-    * Larger then other grung
-    * Golden Color
   * Populated with grung
-  * Has Beasts
-    * Live in the woods
-    * Long
-    * 6 legs
-    * Long tails
-    * Claws and fangs
-    * Can eat a grung hole
-  * Grog
-    * Nephew of Great Grung
+  * Has Tenticats
+  * Spire
+    * The Guard
+      * Timeless
+      * A sphinx
+  * 
 
 ## Items
 
@@ -106,6 +120,14 @@ We awake and find ourselves in a world with purple hue and on a black sand beach
 * Froghemoth
   * It has tentacles
   * Fucked Slaads up
+
+* Tenticats (displacement beast 5e)
+  * Live in the woods
+  * Long
+  * 6 legs
+  * Long tails
+  * Claws and fangs
+  * Can eat a grung hole
 
 * Grung?
   * 3 toed frog creatures

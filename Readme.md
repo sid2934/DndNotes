@@ -64,6 +64,10 @@ Roughly 700 years old
     * Head of Olrick's "Mercenary Guild"
     * Guild Master controls BINGO book
 
+13) Chad and Brad
+    * Gaurds at the gate to Fyr
+    * Want to sack tap Igor and Kyle
+
 ### Places
 
 * The Hole in the Wall Tavern (Rorick):
@@ -134,18 +138,42 @@ Roughly 700 years old
    * Represents the Merchants Guild
    * Smarmy Personality
    * Desk Notes [ONLY Maxwell knows this]
-     * ACQUISITION OF COLEHAND LANDS FOR FOREST PRESERVATION
-       * The city is going to acquire 25 acres of Colehand mining land for forest preservation.
+     * ACQUISITION OF Coalhand LANDS FOR FOREST PRESERVATION
+       * The city is going to acquire 25 acres of Coalhand mining land for forest preservation.
        * City would buy the land at market value
-       * Colehand will lose a shit load of money
+       * Coalhand will lose a shit load of money
+   * The group saved him from Neemak
+     * Tobias and his guards helped in the fight.
 
-   * Guards?
+2) * Tobias Haarstad Body Guards?
      * Sif - Warrior
-     * Maunn - Arc her
+     * Maunn - Archer
      * Grauk - Sorcerer
 
-2) Neemak Colehand
+3) Neemak Coalhand (Dead)
    * Made a blood oath to capture Tobias Haarstad
    * 72 hours to finish the Tobias mission
+   * On his hand there is some kind of Ring
+     * Maxwell put it on and the coal dust on Neemak's hands goes away
 
-3) ask
+4) Thirson Coalhand (Dead)
+   * Neemak Coalhand's son
+   * Blood Knight
+   * Skull was fucked
+
+5) Shady Shim
+   * General wears dealer in Fyr black market
+
+6) One Arm Randy
+   * Owner/Operator "The Arm Dealer"
+   * Blacksmith and Arms dealer in Fyr black market
+  
+7) Ricky Shim
+   * Blacksmith, weapon enchanter, etc in Fyr
+   * Brother of Shady Shim
+
+8) Measley Mick
+   * "Greasy" Italian
+   * half-elf
+   * Live near Half-moon street
+   * Recommended by Shady Shim for recon work
